@@ -15,3 +15,4 @@ def primes(number_of_primes):
         except ValueError:
             print("Oops!  That was no valid number.  Try again...")
         print (list)
+        return list
