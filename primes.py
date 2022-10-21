@@ -11,8 +11,6 @@ def primes(number_of_primes):
                         break
                     else:
                         primes.append(i)
-            print (list)
+            return list
         except ValueError:
             print("Oops!  That was no valid number.  Try again...")
-        print (list)
-        return list
